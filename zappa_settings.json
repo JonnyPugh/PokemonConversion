@@ -1,0 +1,10 @@
+{
+    "pokemon": {
+        "app_function": "src.app.app", 
+        "aws_region": "us-east-1", 
+        "profile_name": "default", 
+        "project_name": "pokemon", 
+        "runtime": "python2.7", 
+        "s3_bucket": "zappa-xe5zcq9vw"
+    }
+}
